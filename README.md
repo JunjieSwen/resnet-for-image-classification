@@ -1,3 +1,4 @@
+# Your first image classification project !!!
 # ResNet50 图像分类项目
 
 这是一个使用ResNet50模型对自定义图像数据集进行分类的完整项目。项目包含了数据处理、模型训练、评估和预测的全过程。
